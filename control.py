@@ -280,13 +280,6 @@ def quizSetup():
         # Clearing screen to prevent cheating
         ui.tableWidget.clearContents()
         ui.tableWidget.setRowCount(0)
-        # Writing info on table
-        ui.tableWidget.setRowCount(1)
-        message = ['Go back to your test', 'or click the refresh', 'button', '*ICON*']
-        for x in range(0, 4):
-            cell = QtWidgets.QTableWidgetItem()  # Creating QTableWidgetItem
-            cell.setText(message[x])  # Adding string to QTableWidgetItem
-            ui.tableWidget.setItem(0, x, cell)
         # Changing ok button text
         uiQuiz.buttonBox.button(QtWidgets.QDialogButtonBox.Ok).setText("Submit")
         # Picking up random directory indexes for test

@@ -27,7 +27,7 @@ The project has been made made using Qt 5.5.1, Python 3.4, PyQt 5.5.1. .
 - **Save (9):** Save current dictionary.
 
 ## **Files Descritpion**
-Files downloaded in PyProject.zip:
+Files downloaded in PythonMultilingualDictionary.zip:
 
     • model.py: Model file of project.
     • control.py: Control file of project.

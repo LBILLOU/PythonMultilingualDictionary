@@ -1,0 +1,21 @@
+Eat Manger Comer Essen Tabemasu
+Drink Boire Beber Trinken Dorinku
+Live Vivre Vivir Leben Raibu
+Take Prendre Tomar Nehmen Torimasu
+Play Jouer Jugar Spielen Asobimasu
+Apple Pomme Manzana Apfel Ringo
+Chocolate Chocolat Chocolate Schokolade Chokoreto
+Phone Telephone Telefono Telephon Denwa
+Jacket Veste Chaqueta Jacke Jaketto
+Window Fenetre Ventana Fenster Mado
+Cup Tasse Copa Becher Kappu
+Computer Ordinateur Ordenador Computer Konpyuta
+Tractor Tracteur Tractor Traktor Torakuta
+Door Porte Puerta Pforte Doa
+Apricot Abricot Albaricoquero Aprikose Apurikotto
+Oven Four Cosina Backofen Obun
+Wall Mur Muro Mauer Kabe
+Scissors Ciseaux Tijeras Schere Hasami
+Wood Bois Bosque Wald Mokuzai
+Love Amour Amor Liebe Ai
+DONE
